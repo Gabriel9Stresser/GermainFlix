@@ -3,3 +3,4 @@ Venho compartilhar mais uma experiência em HTML5 , CSS3 e JavaScript. Recriei a
 
 Link da publicação com um vídeo: https://www.linkedin.com/posts/gabriel-augusto-soler-stresser-366719100_html5-css3-javascript-activity-6719732387044962304-8igp
 
+![germainflix](https://user-images.githubusercontent.com/65667183/102380873-3d920480-3fa7-11eb-93b8-904cdf02a1fb.png)
